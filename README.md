@@ -1,2 +1,3 @@
-# coorView
-genesis2000 script 
+# coordView
+ 
+实现相邻两个坐标x和y的差值在设定范围内，删除其中一行 
